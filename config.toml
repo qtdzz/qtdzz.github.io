@@ -1,3 +1,34 @@
-baseURL = 'https://nqtien.dev/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://nqtien.dev"
+title = "Tien Nguyen"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+author = "Tien Nguyen"
+info = "Software Engineer @ Amazon"
+location = "_Luxembourg City, Luxembourg_"
+description = "Tien Nguyen's personal website"
+keywords = "blog,developer,personal"
+# avatarurl = "images/avatar.jpg"
+gravatar = "nqtien.dev@gmail.com"
+customCSS = ["css/custom.css"]
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/qtdzz/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin-square fa-2x"
+weight = 1
+url = "https://www.linkedin.com/in/qtdzz/"
