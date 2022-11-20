@@ -6,8 +6,8 @@ defaultcontentlanguage = "en"
 
 [params]
 author = "Tien Nguyen"
-info = "Software Engineer @ Amazon"
-location = "_Luxembourg City, Luxembourg_"
+info = "Software Engineer"
+location = "_Zürich, Switzerland_"
 description = "Tien Nguyen's personal website"
 keywords = "blog,developer,personal"
 # avatarurl = "images/avatar.jpg"
